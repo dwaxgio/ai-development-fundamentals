@@ -1,0 +1,5 @@
+# Avoid upload file with API key
+.env
+
+# Avoid upload dependencies
+node_modules/
