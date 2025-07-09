@@ -1,6 +1,6 @@
 # 💬 Software Dev Chatbot
 
-![Chat UI](./public/img/1_MAIN.png)
+![Chat UI](./screenshots/1_MAIN.png)
 
 A core chatbot web application built with Node.js and the OpenAI API. It allows users to interact with a chat interface where their questions are processed by OpenAI’s GPT model and responded to in real-time.
 
